@@ -4,8 +4,8 @@
     'summary': 'Adds a custom logo to the CRM module.',
     'description': 'This module adds a custom logo to the CRM interface.',
     'author': 'SWIT',
-    'category': 'CRM',
-    'depends': ['crm'],
+    'category': 'Customization',
+    'depends': ['web'],
     'data': [],
     'assets': {
         'web.assets_backend': [
