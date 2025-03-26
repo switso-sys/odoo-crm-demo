@@ -6,7 +6,7 @@
     'author': 'SWIT',
     'category': 'Customization',
     'depends': ['web'],
-    'data': [],
+    'data': ['views/assets.xml'],
     'assets': {
         'web.assets_backend': [
             '/custom_crm_logo/static/img/my_logo.png',
