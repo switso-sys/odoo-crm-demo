@@ -1,0 +1,7 @@
+<odoo>
+  <template id="assets_backend" name="Custom CRM Logo Assets" inherit_id="web.assets_backend">
+    <xpath expr="." position="inside">
+      <link rel="stylesheet" href="/custom_crm_logo/static/src/css/custom_logo.css"/>
+    </xpath>
+  </template>
+</odoo>
